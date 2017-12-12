@@ -6,3 +6,4 @@ requests
 redis
 gevent
 sure
+websockets
